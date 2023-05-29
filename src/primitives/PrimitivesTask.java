@@ -49,6 +49,7 @@ public class PrimitivesTask {
     }
 
     private static void theGreatDivider(int[][] matrix) {
-
+        // print 'Row: i, Column: j, Value: x, DividedValue: x/2' for each i and j in matrix. Use println to print from
+        // new line
     }
 }
