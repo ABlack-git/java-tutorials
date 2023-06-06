@@ -8,7 +8,7 @@ public class Start {
         StringFormattingLab lab1 = new StringFormattingLab();
         InputProcessingLab lab2 = new InputProcessingLab();
 
-        int labNumber = 1;
+        int labNumber = 2;
 
         switch (labNumber) {
             case 1 -> lab1.start();
